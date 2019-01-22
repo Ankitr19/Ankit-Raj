@@ -1,0 +1,39 @@
+body{
+	background-color: #7C4DFF;
+}
+img {
+	border-width: 3px;
+	border-style: solid;
+	border-radius: 50%;
+	border-color: #7C4DFF; 
+}
+h1 {
+	font-family: 'Lobster', cursive;
+}
+.Header{
+	text-align: center;
+}
+.imageDiv{
+	background-color: #FFFFFF;
+	text-align: center;
+	border-color: #FFFFFF;
+	border-radius: 2px;
+	border-style: solid;
+	border-width: 5px;
+}
+.Intro{
+	text-align: center;
+	font-family: 'Source Code Pro', monospace;
+}
+.Education{
+	font-family: 'Righteous', cursive;
+}
+.Experience{
+	font-family: 'Righteous', cursive;	
+}
+.Interest{
+	font-family: 'Righteous', cursive;	
+}
+.Footer{
+	text-align: center;
+}
